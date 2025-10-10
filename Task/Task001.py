@@ -1,0 +1,1 @@
+print("Ankit","sharma","Jacob",34,sep='*',end='_')
