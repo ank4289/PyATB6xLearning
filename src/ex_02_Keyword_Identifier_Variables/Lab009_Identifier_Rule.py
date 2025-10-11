@@ -1,0 +1,2 @@
+Long_Variable_rule_of_the_python="Ankit"
+print(Long_Variable_rule_of_the_python)
