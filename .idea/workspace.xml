@@ -5,27 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="Commit and Pushed 1">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab007_Variable_Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab008_Dynamically_Typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab009_Identifier_Rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab10_Maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab11_IQ_BODMAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab12_Multiple_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab13_Multiple_Print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab14_Math_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab15_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab016_literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab017_Multi_Comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab018_Multi_Comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab019_Data_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab022_User Input sum of two numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab023_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab024_String_Conversions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab026_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab027_String_double_Single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab20_Builtin_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task 03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task005_2_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab026_literal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab028_Arth_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab028_Arth_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab028_Uninary_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab029_Comparison_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab030_Logic_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab031_Operator_p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab032_operator_p4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab033_Operators_Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab034_logical_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab035_Operator_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab036_Operators_Membership.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab037_operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab039_Operators_P9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab040_Operators_identity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab040_Ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab040_User_Input_ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_operators/Lab041_Math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,17 +85,35 @@
     "Python.Lab025_Strings.executor": "Run",
     "Python.Lab026_Escape_Char.executor": "Run",
     "Python.Lab027_String_double_Single.executor": "Run",
+    "Python.Lab028_Arth_operator.executor": "Run",
+    "Python.Lab028_Uninary_operators.executor": "Run",
+    "Python.Lab030_Logic_operators.executor": "Run",
+    "Python.Lab031_Operator_p2.executor": "Run",
+    "Python.Lab032_Operators_Comparison.executor": "Run",
+    "Python.Lab032_operator_p4.executor": "Run",
+    "Python.Lab034_logical_operator.executor": "Run",
+    "Python.Lab035_Operator_Example.executor": "Run",
+    "Python.Lab036_Operators_Members.executor": "Run",
+    "Python.Lab039_Operators_P9.executor": "Run",
+    "Python.Lab040_Operators_identity.executor": "Run",
+    "Python.Lab040_Ternary_operator.executor": "Run",
+    "Python.Lab040_User_Input_ternary_operator.executor": "Run",
+    "Python.Lab041_Math.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
     "Python.Lab14_Math_Functions.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab20_Builtin_Functions.executor": "Run",
+    "Python.Task 03.executor": "Run",
     "Python.Task001.executor": "Run",
+    "Python.Task004.executor": "Run",
+    "Python.Task005.executor": "Run",
+    "Python.Task005_2_question.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab027_String_double_Single">
-    <configuration name="Lab022_User Input sum of two numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task005_2_question">
+    <configuration name="Lab040_User_Input_ternary_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab022_User Input sum of two numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_operators/Lab040_User_Input_ternary_operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab023_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab041_Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab023_String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_operators/Lab041_Math.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab025_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab025_Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab026_Escape_Char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab026_Escape_Char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab027_String_double_Single" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task005_2_question" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,11 +210,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_03_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_03_Literals_Variables/Lab027_String_double_Single.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task005_2_question.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab027_String_double_Single" />
-        <item itemvalue="Python.Lab026_Escape_Char" />
-        <item itemvalue="Python.Lab025_Strings" />
-        <item itemvalue="Python.Lab023_String" />
-        <item itemvalue="Python.Lab022_User Input sum of two numbers" />
+        <item itemvalue="Python.Task005_2_question" />
+        <item itemvalue="Python.Task005" />
+        <item itemvalue="Python.Lab041_Math" />
+        <item itemvalue="Python.Task004" />
+        <item itemvalue="Python.Lab040_User_Input_ternary_operator" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760124695404</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit and Pushed 1">
+      <option name="closed" value="true" />
+      <created>1760183103876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760183103876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
