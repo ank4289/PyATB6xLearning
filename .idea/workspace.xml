@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="17 OCt 2025">
-      <change afterPath="$PROJECT_DIR$/Task/Task_16oct2025_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_16oct_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_16oct_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_16oct_09.py" afterDir="false" />
+    <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="17 OCt 2025_task">
+      <change afterPath="$PROJECT_DIR$/Task/Task_18Oct_Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task_18Oct_Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task_18Oct_Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabMatch002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabSwitch001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab049_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab050_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab051_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab052_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab_For_Userd_In_Real_Life.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab_reverse_For_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Labs048_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab053_While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab_while_Vs_For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Labwhile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,10 +97,21 @@
     "Python.Lab044_Nested_IF_Elseif.executor": "Run",
     "Python.Lab045_If_else_condition.executor": "Run",
     "Python.Lab047_Grade_calc.executor": "Run",
+    "Python.Lab049_loop.executor": "Run",
+    "Python.Lab050_Loops.executor": "Run",
+    "Python.Lab051_IQ.executor": "Run",
+    "Python.Lab052_IQ.executor": "Run",
+    "Python.Lab053_While_Loop.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
     "Python.Lab14_Math_Functions.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab20_Builtin_Functions.executor": "Run",
+    "Python.LabForuserdinreallife.executor": "Run",
+    "Python.LabMatch002.executor": "Run",
+    "Python.LabSwitch001.executor": "Run",
+    "Python.Lab_reverse_For_loop.executor": "Run",
+    "Python.Labs048_loop.executor": "Run",
+    "Python.Labwhile.executor": "Run",
     "Python.Lsab046_if_else_elif.executor": "Run",
     "Python.Task 03.executor": "Run",
     "Python.Task001.executor": "Run",
@@ -100,12 +122,20 @@
     "Python.Task_16oct_06.executor": "Run",
     "Python.Task_16oct_07.executor": "Run",
     "Python.Task_16oct_09.executor": "Run",
+    "Python.Task_18Oct_Q1.executor": "Run",
+    "Python.Task_18Oct_Q2.executor": "Run",
+    "Python.Task_18Oct_Q3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task_16oct_09">
-    <configuration name="Lab047_Grade_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankit.cx.sharma\PycharmProjects\PyATB6xLearning\src\ex_07_loops\For Loop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Task_18Oct_Q3">
+    <configuration name="Lab053_While_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Conditions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_loops/While Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Conditions/Lab047_Grade_calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab053_While_Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +157,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_16oct2025_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Labwhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_loops/While Loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_loops/While Loop/Labwhile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_18Oct_Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_16oct2025_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_18Oct_Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_16oct_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_18Oct_Q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_16oct_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_18Oct_Q2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_16oct_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task_18Oct_Q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,29 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_16oct_07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_16oct_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_16oct_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_18Oct_Q3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task_16oct_09" />
-        <item itemvalue="Python.Task_16oct2025_08" />
-        <item itemvalue="Python.Task_16oct_07" />
-        <item itemvalue="Python.Task_16oct_06" />
-        <item itemvalue="Python.Lab047_Grade_calc" />
+        <item itemvalue="Python.Task_18Oct_Q3" />
+        <item itemvalue="Python.Task_18Oct_Q2" />
+        <item itemvalue="Python.Task_18Oct_Q1" />
+        <item itemvalue="Python.Labwhile" />
+        <item itemvalue="Python.Lab053_While_Loop" />
       </list>
     </recent_temporary>
   </component>
@@ -297,13 +327,22 @@
       <option name="project" value="LOCAL" />
       <updated>1760645956837</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="17 OCt 2025_task">
+      <option name="closed" value="true" />
+      <created>1760730593921</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760730593921</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit and Pushed 1" />
     <MESSAGE value="17 OCt 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 OCt 2025" />
+    <MESSAGE value="17 OCt 2025_task" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 OCt 2025_task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
