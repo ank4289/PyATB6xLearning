@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="18 OCt 2025_task">
-      <change afterPath="$PROJECT_DIR$/Task/Task01_EvenNumber_28Oct25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task02_28Oct25_reversenumbering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task03_28Oct25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task_factorial_28_Oct_2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab054_For_While_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab055_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Pass vs Continue/Lab_Pass_VS_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab056_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab057_Pass_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab058_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While Loop/Lab059_Odd_Number.py" afterDir="false" />
+    <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="28 OCt 2025_task">
+      <change afterPath="$PROJECT_DIR$/Task/Task01_30oct25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task02_30Oct2025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab061_Example_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab063_Function_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab064_Type3_Function_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab065_Function_default_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab066_Function_return_Multiple_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/Lab067_Functions_keyword_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/LabQ01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/LabQ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_functions/LabQ3_Real_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,12 +104,23 @@
     "Python.Lab057_Pass_break.executor": "Run",
     "Python.Lab058_Q.executor": "Run",
     "Python.Lab059_Odd_Number.executor": "Run",
+    "Python.Lab061_Example_Function.executor": "Run",
+    "Python.Lab061_Example_function.executor": "Run",
+    "Python.Lab062_Example_function.executor": "Run",
+    "Python.Lab062_example_Functions.executor": "Run",
+    "Python.Lab063_Function_Parameter.executor": "Run",
+    "Python.Lab064_Type3_Function_return.executor": "Run",
+    "Python.Lab065_Function_default_Parameter.executor": "Run",
+    "Python.Lab066_Function_return_Multiple_value.executor": "Run",
+    "Python.Lab067_Functions_keyword_args.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
     "Python.Lab14_Math_Functions.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab20_Builtin_Functions.executor": "Run",
     "Python.LabForuserdinreallife.executor": "Run",
     "Python.LabMatch002.executor": "Run",
+    "Python.LabQ2.executor": "Run",
+    "Python.LabQ3_Real_example.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.Lab_Pass_VS_Continue.executor": "Run",
     "Python.Lab_reverse_For_loop.executor": "Run",
@@ -121,8 +132,10 @@
     "Python.Task004.executor": "Run",
     "Python.Task005.executor": "Run",
     "Python.Task005_2_question.executor": "Run",
+    "Python.Task01_30oct25.executor": "Run",
     "Python.Task01_EvenNumber_28Oct25.executor": "Run",
     "Python.Task02_28Oct25_reversenumbering.executor": "Run",
+    "Python.Task02_30Oct2025.executor": "Run",
     "Python.Task03_28Oct25.executor": "Run",
     "Python.Task_16oct2025_08.executor": "Run",
     "Python.Task_16oct_06.executor": "Run",
@@ -135,16 +148,20 @@
     "Python.Task_FizzBuzz_28Oct2025.executor": "Run",
     "Python.Task_factorial_28_Oct_2025.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ankit.cx.sharma/PycharmProjects/PyATB6xLearning/src/ex_08_functions"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ankit.cx.sharma\PycharmProjects\PyATB6xLearning\src\ex_08_functions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ankit.cx.sharma\PycharmProjects\PyATB6xLearning\src\ex_07_loops\For Loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task03_28Oct25">
-    <configuration name="Lab_Pass_VS_Continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task02_30Oct2025">
+    <configuration name="Lab067_Functions_keyword_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_loops/Pass vs Continue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_loops/Pass vs Continue/Lab_Pass_VS_Continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_functions/Lab067_Functions_keyword_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +183,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task01_EvenNumber_28Oct25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabQ2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_functions/LabQ2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LabQ3_Real_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08_functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08_functions/LabQ3_Real_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task01_30oct25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +240,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task01_EvenNumber_28Oct25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task01_30oct25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task02_28Oct25_reversenumbering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task02_30Oct2025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,51 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task02_28Oct25_reversenumbering.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task03_28Oct25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task03_28Oct25.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task_FizzBuzz (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task_FizzBuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task02_30Oct2025.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task03_28Oct25" />
-        <item itemvalue="Python.Lab_Pass_VS_Continue" />
-        <item itemvalue="Python.Task02_28Oct25_reversenumbering" />
-        <item itemvalue="Python.Task01_EvenNumber_28Oct25" />
-        <item itemvalue="Python.Task_FizzBuzz (1)" />
+        <item itemvalue="Python.Task02_30Oct2025" />
+        <item itemvalue="Python.Task01_30oct25" />
+        <item itemvalue="Python.LabQ3_Real_example" />
+        <item itemvalue="Python.LabQ2" />
+        <item itemvalue="Python.Lab067_Functions_keyword_args" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761168778806</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="28 OCt 2025_task">
+      <option name="closed" value="true" />
+      <created>1761767466689</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761767466689</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -360,7 +385,8 @@
     <MESSAGE value="17 OCt 2025" />
     <MESSAGE value="17 OCt 2025_task" />
     <MESSAGE value="18 OCt 2025_task" />
-    <option name="LAST_COMMIT_MESSAGE" value="18 OCt 2025_task" />
+    <MESSAGE value="28 OCt 2025_task" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 OCt 2025_task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
