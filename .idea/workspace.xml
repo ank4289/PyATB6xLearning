@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="04 Nov 2025_task" />
+    <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="04 Nov 2025_task">
+      <change afterPath="$PROJECT_DIR$/src/ex_013_list/Lab096_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_013_list/Lab097_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_013_list/Lab098_POP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_014_Tuple/LAB101_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_014_Tuple/Lab099_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_014_Tuple/Lab100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_015_Set/Lab102_Set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LAB101_Tuple.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab003_Print.executor": "Run",
     "Python.Lab004_keywords.executor": "Run",
@@ -120,6 +130,12 @@
     "Python.Lab093_Lambda.executor": "Run",
     "Python.Lab094_UserInput_Odd_even.executor": "Run",
     "Python.Lab095_Lambda.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_list.executor": "Run",
+    "Python.Lab098_POP.executor": "Run",
+    "Python.Lab099_Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab102_Set.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
     "Python.Lab14_Math_Functions.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
@@ -171,8 +187,8 @@
       <recent name="C:\Users\ankit.cx.sharma\PycharmProjects\PyATB6xLearning\src\ex_07_loops\For Loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task01_04Nov2025">
-    <configuration name="Lab090_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab102_Set">
+    <configuration name="LAB101_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_012_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_014_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_012_Lambda_Function/Lab090_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_014_Tuple/LAB101_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab093_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab098_POP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_012_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_013_list" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_012_Lambda_Function/Lab093_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_013_list/Lab098_POP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab094_UserInput_Odd_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab099_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_012_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_014_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_012_Lambda_Function/Lab094_UserInput_Odd_even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_014_Tuple/Lab099_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab095_Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab100_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_012_Lambda_Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_014_Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_012_Lambda_Function/Lab095_Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_014_Tuple/Lab100_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task01_04Nov2025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab102_Set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,11 +285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_015_Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task01_04Nov2025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_015_Set/Lab102_Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task01_04Nov2025" />
-        <item itemvalue="Python.Lab095_Lambda" />
-        <item itemvalue="Python.Lab094_UserInput_Odd_even" />
-        <item itemvalue="Python.Lab093_Lambda" />
-        <item itemvalue="Python.Lab090_Lambda" />
+        <item itemvalue="Python.Lab102_Set" />
+        <item itemvalue="Python.LAB101_Tuple" />
+        <item itemvalue="Python.Lab100_Tuple" />
+        <item itemvalue="Python.Lab099_Tuple" />
+        <item itemvalue="Python.Lab098_POP" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +444,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762370828466</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="04 Nov 2025_task">
+      <option name="closed" value="true" />
+      <created>1762370918350</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762370918357</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
