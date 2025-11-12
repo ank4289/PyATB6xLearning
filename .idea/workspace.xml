@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0f5a40-803a-4028-9047-a744178f699d" name="Changes" comment="06 Nov 2025_task">
-      <change afterPath="$PROJECT_DIR$/src/ex_015_Set/Lab103_set_p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_015_Set/Lab104_set_p3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_015_Set/Lab105_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_015_Set/Lab105_extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_016_Map_Filter/LabFilter01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_016_Map_Filter/LabFilter02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_016_Map_Filter/LabFilter03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_016_Map_Filter/LabMap01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_016_Map_Filter/LabMap02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_016_Map_Filter/LabMap03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab107_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab108_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab109_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab110_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab112_Dict_keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab113_duplicate_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab114_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab115_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab116_IQ_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_017_Dictionary/Lab_113_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_018_Oops/Lab117_oops_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,6 +145,13 @@
     "Python.Lab108_Dict.executor": "Run",
     "Python.Lab109_Dict.executor": "Run",
     "Python.Lab110_Dict.executor": "Run",
+    "Python.Lab111_Dict_Frequency.executor": "Run",
+    "Python.Lab112_Dict_keys.executor": "Run",
+    "Python.Lab113_duplicate_Dict.executor": "Run",
+    "Python.Lab114_Dict.executor": "Run",
+    "Python.Lab115_Dict_IQ.executor": "Run",
+    "Python.Lab116_IQ_vowel.executor": "Run",
+    "Python.Lab117_oops_class.executor": "Run",
     "Python.Lab11_IQ_BODMAS.executor": "Run",
     "Python.Lab14_Math_Functions.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
@@ -168,6 +167,7 @@
     "Python.LabQ2.executor": "Run",
     "Python.LabQ3_Real_example.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
+    "Python.Lab_113_IQ_Dict.executor": "Run",
     "Python.Lab_Pass_VS_Continue.executor": "Run",
     "Python.Lab_reverse_For_loop.executor": "Run",
     "Python.Lab_time.executor": "Run",
@@ -210,8 +210,8 @@
       <recent name="C:\Users\ankit.cx.sharma\PycharmProjects\PyATB6xLearning\src\ex_07_loops\For Loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab110_Dict">
-    <configuration name="Lab106_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab117_oops_class">
+    <configuration name="Lab113_duplicate_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,7 +224,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab106_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab113_duplicate_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab107_Dict_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab114_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab107_Dict_P2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab114_Dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab108_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab115_Dict_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab108_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab115_Dict_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab109_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab116_IQ_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,7 +290,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab109_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab116_IQ_vowel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab110_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab117_oops_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,11 +308,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_017_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_018_Oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_017_Dictionary/Lab110_Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_018_Oops/Lab117_oops_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab110_Dict" />
-        <item itemvalue="Python.Lab109_Dict" />
-        <item itemvalue="Python.Lab108_Dict" />
-        <item itemvalue="Python.Lab107_Dict_P2" />
-        <item itemvalue="Python.Lab106_Dict" />
+        <item itemvalue="Python.Lab117_oops_class" />
+        <item itemvalue="Python.Lab116_IQ_vowel" />
+        <item itemvalue="Python.Lab115_Dict_IQ" />
+        <item itemvalue="Python.Lab113_duplicate_Dict" />
+        <item itemvalue="Python.Lab114_Dict" />
       </list>
     </recent_temporary>
   </component>
