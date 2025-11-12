@@ -1,4 +1,5 @@
 class Person:
+    #Attribute
     Name=None
     Id=None
     Work=None
